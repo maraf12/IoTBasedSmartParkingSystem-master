@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1041344371229",
+    "firebase_url": "https://parking-slots-36394-default-rtdb.firebaseio.com",
+    "project_id": "parking-slots-36394",
+    "storage_bucket": "parking-slots-36394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041344371229:android:f7cbc519330addde8d04f4",
+        "android_client_info": {
+          "package_name": "com.example.egg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041344371229-o3bn1s5hl0hqtehok3v929vha0j1jt35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA79AewwQyFAijKle7W43ilujdKNOhcTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041344371229-o3bn1s5hl0hqtehok3v929vha0j1jt35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041344371229:android:ae021a216020b5328d04f4",
+        "android_client_info": {
+          "package_name": "com.example.test.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041344371229-raephgmh06eg3h6jmos4hurk6avq7rd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test.smartpark",
+            "certificate_hash": "9ddc614898eafea41c3078f46f184d924124597f"
+          }
+        },
+        {
+          "client_id": "1041344371229-o3bn1s5hl0hqtehok3v929vha0j1jt35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA79AewwQyFAijKle7W43ilujdKNOhcTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041344371229-o3bn1s5hl0hqtehok3v929vha0j1jt35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

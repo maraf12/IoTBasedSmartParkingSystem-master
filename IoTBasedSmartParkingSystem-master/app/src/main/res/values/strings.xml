@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">EGG</string>
+    <string name="title_activity_park1">Bernabe Shopping Mall</string>
+    <string name="title_activity_park2">Dutdutan Building</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="revert_sign">Revert Sign</string>
+    <string name="info_dialog_box">info_dialog_box</string>
+
+    <!-- CUSTOM POPUP -->
+    <string name="Ok">Ok</string>
+    <string name="Info_1">The parking space is AVAILABLE when the color is GREEN.</string>
+    <string name="Info_2">The parking space is OCCUPPIED/UNAVAILABLE when the color is RED.</string>
+    <string name="Info_3">The ARROWS are used to show the traffic flow inside the parking lot.</string>
+    <string name="info_title">INFO</string>
+
+    <!-- PARKING LINGO -->
+    <string name="box_1_parking_1_text">Office</string>
+    <string name="box_2_parking_1_text">Lounge</string>
+    <string name="box_3_parking_1_text">Off Limits</string>
+    <string name="box_5_parking_1_text">Elevator</string>
+    <string name="box_6_parking_1_text">Rest Room</string>
+    <string name="box_7_parking_1_text">Off Limits</string>
+
+    <!-- CUSTOM POPUP RESERVE -->
+    <string name="info_title_reserve">RESERVATION</string>
+    <string name="evolution_of_egg">Evolution of Egg</string>
+    <string name="this_parking_space_is_available">This parking space is AVAILABLE</string>
+    <string name="this_parking_space_is_unavailable">This parking space is UNAVAILABLE</string>
+    <string name="do_you_want_to_reserve_this_parking_space">Do you want to reserve this parking space?</string>
+    <string name="proceed">Proceed</string>
+    <string name="cancel">Cancel</string>
+    <string name="please_check_other_available_parking_space">Please check other available parking space.</string>
+
+</resources>
